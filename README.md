@@ -1,0 +1,2 @@
+# dcuration
+Decentralized Curation project
